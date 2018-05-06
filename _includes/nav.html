@@ -3,14 +3,14 @@
 		<ul class="dl-menu">
 			<li><a href="{{ site.url }}/">Home</a></li>
 			<li>
-				<a href="#">내정보</a>
+				<a href="#">About</a>
 				<ul class="dl-submenu">
 					<li>
 						<img src="{{ site.url }}/{{ site.logo }}" alt="{{ site.title }} photo" class="author-photo">
 						<h4>{{ site.title }}</h4>
 						<p>{{ site.description }}</p>
 					</li>
-					<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">고고싱</span></a></li>
+					<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">Run</span></a></li>
 					{% if site.email %}<li>
                         <a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
                     </li>{% endif %}
@@ -86,7 +86,7 @@
 				</ul><!-- /.dl-submenu -->
 			</li>
 			<li>
-				<a href="#">공부</a>
+				<a href="#">Posts</a>
 				<ul class="dl-submenu">
 					<li><a href="{{ site.url }}/posts/">모든 내용</a></li>
 					<li><a href="{{ site.url }}/tags/">All Tags</a></li>

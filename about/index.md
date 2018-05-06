@@ -1,37 +1,31 @@
 ---
 layout: page
-title: About the Theme
+title: About me
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>작은 <a href="http://one-pleasure.tistory.com"><b>blog</b></a>를 운영하고 있습니다</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Info
+* Name   : 조원오
+* Phone  : +82)10-4119-5479
+* Email  : sincle582@naver.com
+* github : https://github.com/One-Opportunity
+* blog   : https://one-pleasure.tistory.com
 
-## Preview
+## Who
+ 아직 실력이 많이 부족한 새내기 초보 개발자입니다.
+ 여전히 부족한 실력에 각성하여 공부한 내용을 정리하여
+ 지식을 더 쌓고자 만들었습니다.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## Profile
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+* 2016.10. ~ 2017.11. 제노테크(주)
+ * Android App 개발 및 연구
 
-## Getting Started
+## Thesis
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+* NFC 기반 모바일 결제의 보안을 위한 암호화 실증 테스트 - 한국통신학회 (2016년)
+* NFC 기반 2 Factor 모바일 전자결제를 위한 갤러리-옥션의 사용자인증 모듈 개발 - 한국스마트미디어학회 (2017년)
