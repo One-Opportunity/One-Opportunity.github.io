@@ -1,18 +1,19 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+title:  "게시판 만들기 (Spring)"
+date:   2018-05-07
+excerpt: "Spring MVC으로 게시판을 구축해보았다."
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- Spring
+- MVC
+- project
+- 게시판
+- Java
+- JavaScript
 comments: true
 ---
-
+<img src="https://one-opportunity.github.io/assets/img/logo.png">
 ![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
     
 <center><b>Moon</b> is a minimal, one column jekyll theme.</center>
