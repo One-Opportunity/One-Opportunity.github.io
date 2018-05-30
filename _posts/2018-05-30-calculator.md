@@ -29,4 +29,4 @@ comments: true
 * 스택 후위식으로 계산기 로직 작성
 
 ## 소스
-* <a href="github.com/One-Opportunity/calculator">github.com/One-Opportunity/calculator</a> 참고
+* <a href="https://github.com/One-Opportunity/calculator">github.com/One-Opportunity/calculator</a> 참고
